@@ -10,6 +10,10 @@ The app does not require account registration and does not collect personally id
 
 Birth data (date, time, and place) entered in the app is used **only locally** to calculate the natal chart and is not transmitted or stored on external servers.
 
+## Location
+
+If you enable location access, the app uses your device’s precise location only to help you find your current position on the map while selecting a place. Location data is not used for tracking or advertising and is not stored on our servers.
+
 ## Analytics and Diagnostics
 
 The app uses Firebase services provided by Google to improve stability and performance:
