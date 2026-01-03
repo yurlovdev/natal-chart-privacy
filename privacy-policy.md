@@ -12,7 +12,9 @@ Birth data (date, time, and place) entered in the app is used **only locally** t
 
 ## Location
 
-If you enable location access, the app uses your device’s precise location only to help you find your current position on the map while selecting a place. Location data is not used for tracking or advertising and is not stored on our servers.
+If you grant location access, the app may use your device’s precise location to help you find your position on the map while selecting a place.
+
+When you submit crash report from within the app, the app may include your current coordinates with the report to help diagnose issues. This location data is used only for support and debugging, is not used for advertising or tracking, and is not shared with data brokers.
 
 ## Analytics and Diagnostics
 
